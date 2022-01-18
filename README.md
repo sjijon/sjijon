@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**sjijon/sjijon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  Sofia JIJON
+  
+ ![Git](https://img.shields.io/badge/Git-3a6f92?logo=Git&logoColor=white)
+ ![R](https://img.shields.io/badge/R-3a6f92?logo=R&logoColor=white)
+ ![Matlab](https://img.shields.io/badge/Matlab-3a6f92?logo=Matlab&logoColor=white)
+ ![Mathematica](https://img.shields.io/badge/Mathematica-3a6f92?logo=Mathematicab&logoColor=white)
+ ![LaTeX](https://img.shields.io/badge/LaTeX-3a6f92?logo=LaTeX&logoColor=white)
+ ![HTML](https://img.shields.io/badge/HTML-3a6f92?logo=HTML&logoColor=white)
+ 
+</div>
