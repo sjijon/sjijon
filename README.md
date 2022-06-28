@@ -14,12 +14,10 @@
 
 
 <a href="">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjijon&custom_title=Most%20used%20languages%20(public%20repos)&hide=javascript,CSS&layout=compact&show_icons=true&theme=light&title_color=0c6334&hide_border=true&card_width=400px&langs_count=10" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjijon&custom_title=Most%20used%20languages%20(public%20repos)&hide=javascript,CSS&layout=compact&show_icons=true&theme=light&title_color=0c6334&hide_border=true&langs_count=10" />
 </a>
 <a href="">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=sjijon&custom_title=GitHub%20stats&show_icons=true&theme=light&title_color=0c6334&icon_color=0c6334&hide_border=true" />
 </a>
-
-<h3 style="color:crimson;"> Other </h3>
 
 
