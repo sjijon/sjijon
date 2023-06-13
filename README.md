@@ -14,7 +14,7 @@
 
 
 <a href="">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjijon&custom_title=Most%20used%20languages%20(public%20repos)&hide=javascript,CSS,mathematica&layout=compact&show_icons=true&theme=light&title_color=0c6334&hide_border=true&langs_count=10&card_width=300px" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjijon&custom_title=Most%20used%20languages%20(public%20repos)&hide=javascript,CSS,mathematica&layout=compact&show_icons=true&theme=light&title_color=0c6334&hide_border=true&langs_count=10&card_width=350px" />
 </a>
 <a href="">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=sjijon&custom_title=GitHub%20stats&show_icons=true&hide=commits,issues&theme=light&title_color=0c6334&icon_color=0c6334&hide_border=true" />
